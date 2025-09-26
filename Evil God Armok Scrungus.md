@@ -1,1 +1,0 @@
-Has a strong hold on [[King 'Mad Prince' John Moth]], whom he is guiding towards a path of destruction and bloodshed.
