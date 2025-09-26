@@ -31,14 +31,10 @@
             "id": "2a05aada081c664d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: graph.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -236,6 +232,7 @@
   },
   "active": "2a05aada081c664d",
   "lastOpenFiles": [
+    "Kingdom of Winters/Duchess Nelliel Terhaus.md",
     "Evil God Armok Scrungus.md",
     "Kingdom of Moths/King 'Mad Prince' John Moth.md",
     "John 'Mad Prince' Moth.md",
@@ -245,7 +242,6 @@
     "Kingdom of Winters/Kingdom of Winters.md",
     "Nerd Empire.md",
     "Kingdom of Winters/Queen Ash von Winter.md",
-    "Kingdom of Winters/Duchess Nelliel Terhaus.md",
     "Kingdom of Moths/Baron Sips Summers.md",
     "Deity of Anomalies.md",
     "Kingdom of Winters/Prince Purpington von Winter.md",
