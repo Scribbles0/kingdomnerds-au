@@ -51,6 +51,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "14daf2611fd98902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e843e637a64b4ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,11 +263,11 @@
   },
   "active": "69c7fe03081576be",
   "lastOpenFiles": [
-    "Kingdom of Moths/Count Larry Mens.md",
-    "Kingdom of Moths/Baron Sips Summers.md",
     "Kingdom of Moths/Kingdom of Moths.md",
     "Kingdom of Winters/Duchess Nelliel Terhaus.md",
     "Deity of Anomalies.md",
+    "Kingdom of Moths/Count Larry Mens.md",
+    "Kingdom of Moths/Baron Sips Summers.md",
     "Kingdom of Winters/Duchess Samantha Evans.md",
     "Evil God Armok Scrungus.md",
     "Kingdom of Winters/Kingdom of Winters.md",
