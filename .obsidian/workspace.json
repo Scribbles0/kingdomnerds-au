@@ -8,37 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a05aada081c664d",
+            "id": "7a1106d08bb91760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingdom of Moths/Kingdom of Moths.md",
+                "file": "Kingdom of Winters/Prince Purpington von Winter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kingdom of Moths"
+              "title": "Prince Purpington von Winter"
             }
           }
         ]
       },
       {
-        "id": "14daf2611fd98902",
+        "id": "127add6d3678d59b",
         "type": "tabs",
         "children": [
           {
-            "id": "6e843e637a64b4ad",
+            "id": "2a05aada081c664d",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Evil God Armok Scrungus.md",
-                "bFile": "Evil God Armok Scrungus.md",
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Evil God Armok Scrungus"
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -114,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kingdom of Moths/King 'Mad Prince' John Moth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for King 'Mad Prince' John Moth"
+              "title": "Backlinks"
             }
           },
           {
@@ -133,7 +132,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kingdom of Moths/Kingdom of Moths.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,12 +154,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224418,
+                  "scale": 0.3628873693012114,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Kingdom of Moths"
+              "title": "Graph view"
             }
           },
           {
@@ -236,28 +234,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e843e637a64b4ad",
+  "active": "2a05aada081c664d",
   "lastOpenFiles": [
     "Evil God Armok Scrungus.md",
-    "Deity of Anomalies.md",
-    "Kingdom of Winters/Duchess Samantha Evans.md",
-    "Kingdom of Winters/Prince Purpington von Winter.md",
-    "Kingdom of Winters/Princess Lenafreya Malayzay.md",
-    "Kingdom of Winters/Viscount Rom Killinger.md",
+    "Kingdom of Moths/King 'Mad Prince' John Moth.md",
+    "John 'Mad Prince' Moth.md",
     "Kingdom of Moths/Kingdom of Moths.md",
-    "Kingdom of Winters/Kingdom of Winters.md",
     "Kingdom of Moths/Count Larry Mens.md",
-    "Kingdom of Moths/Duke Alec 'Protag' Buchanan.md",
-    "Kingdom of Moths/Prince Valerian Freeman.md",
-    "Kingdom of Moths/Baron Sips Summers.md",
     "Kingdom of Moths/Duchess Iris Moondancer.md",
-    "Kingdom of Moths/Marquess Lai Neetra.md",
+    "Kingdom of Winters/Kingdom of Winters.md",
+    "Nerd Empire.md",
     "Kingdom of Winters/Queen Ash von Winter.md",
     "Kingdom of Winters/Duchess Nelliel Terhaus.md",
-    "Kingdom of Moths/King 'Mad Prince' John Moth.md",
-    "Nerd Empire.md",
-    "Untitled.base",
+    "Kingdom of Moths/Baron Sips Summers.md",
+    "Deity of Anomalies.md",
+    "Kingdom of Winters/Prince Purpington von Winter.md",
     "Untitled.canvas",
+    "Kingdom of Winters/Duchess Samantha Evans.md",
+    "Kingdom of Winters/Princess Lenafreya Malayzay.md",
+    "Kingdom of Winters/Viscount Rom Killinger.md",
+    "Kingdom of Moths/Duke Alec 'Protag' Buchanan.md",
+    "Kingdom of Moths/Prince Valerian Freeman.md",
+    "Kingdom of Moths/Marquess Lai Neetra.md",
+    "Untitled.base",
     "Kingdom of Winters/Vicount Rom Killinger.md",
     "Kingdom of Moths",
     "Kingdom of Winters",
