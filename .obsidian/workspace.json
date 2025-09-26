@@ -11,24 +11,31 @@
             "id": "2a05aada081c664d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Kingdom of Moths/Count Larry Mens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Count Larry Mens"
             }
           },
           {
-            "id": "82b82bb51d94c4d2",
+            "id": "9c14bba9f82d2d4a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Deity of Anomalies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deity of Anomalies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,6 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Kingdom of Moths/Count Larry Mens.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Count Larry Mens"
             }
           },
           {
@@ -184,12 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Kingdom of Moths/Count Larry Mens.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Count Larry Mens"
             }
           },
           {
@@ -221,10 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82b82bb51d94c4d2",
+  "active": "a28cd3aa6dc75231",
   "lastOpenFiles": [
-    "Evil God Armok Scrungus.md",
+    "Deity of Anomalies.md",
     "Kingdom of Winters/Duchess Samantha Evans.md",
+    "Evil God Armok Scrungus.md",
     "Kingdom of Moths/Kingdom of Moths.md",
     "Kingdom of Winters/Kingdom of Winters.md",
     "Kingdom of Moths/King 'Mad Prince' John Moth.md",

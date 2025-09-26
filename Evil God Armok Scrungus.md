@@ -1,1 +1,1 @@
-Guiding [[King 'Mad Prince' John Moth]] towards a path of destruction and bloodshed
+Has a strong hold on [[King 'Mad Prince' John Moth]], whom he is guiding towards a path of destruction and bloodshed.
