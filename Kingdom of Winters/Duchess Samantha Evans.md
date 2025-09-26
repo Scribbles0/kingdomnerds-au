@@ -1,0 +1,3 @@
+A pink-haired woman who smells of artificial strawberry and bubblegum. She isn't very tall, standing at 4'11" and seems to be slightly malnourished. Strange cracks and wisps of dark, broken space appear and disappear around her constantly, specifically concentrating around her head. Looking into one of the cracks, the dark space is littered with stars except for a single, humanoid shaped void in the middle.
+
+Knows that the deity is connected to anomalous points in space but doesn't question who it is or what it wants due to her blind fanaticism.
