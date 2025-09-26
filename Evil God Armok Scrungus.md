@@ -1,0 +1,1 @@
+Guiding [[King 'Mad Prince' John Moth]] towards a path of destruction and bloodshed

@@ -11,17 +11,24 @@
             "id": "2a05aada081c664d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kingdom of Winters/Kingdom of Winters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kingdom of Winters"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "82b82bb51d94c4d2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +120,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kingdom of Winters/Kingdom of Winters.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +147,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Kingdom of Winters"
+              "title": "Graph view"
             }
           },
           {
@@ -178,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingdom of Winters/Kingdom of Winters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kingdom of Winters"
+              "title": "Outline"
             }
           },
           {
@@ -216,23 +221,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a05aada081c664d",
+  "active": "82b82bb51d94c4d2",
   "lastOpenFiles": [
-    "Kingdom of Winters/Princess Lenafreya Malayzay.md",
-    "Kingdom of Winters/Kingdom of Winters.md",
-    "Kingdom of Winters/Queen Ash von Winter.md",
-    "Kingdom of Moths/Kingdom of Moths.md",
+    "Evil God Armok Scrungus.md",
     "Kingdom of Winters/Duchess Samantha Evans.md",
+    "Kingdom of Moths/Kingdom of Moths.md",
+    "Kingdom of Winters/Kingdom of Winters.md",
+    "Kingdom of Moths/King 'Mad Prince' John Moth.md",
+    "Nerd Empire.md",
+    "Kingdom of Winters/Princess Lenafreya Malayzay.md",
+    "Kingdom of Winters/Queen Ash von Winter.md",
     "Kingdom of Winters/Duchess Nelliel Terhaus.md",
     "Kingdom of Winters/Prince Purpington von Winter.md",
     "Kingdom of Moths/Duchess Iris Moondancer.md",
     "Kingdom of Moths/Count Larry Mens.md",
     "Kingdom of Moths/Marquess Lai Neetra.md",
-    "Kingdom of Moths/King 'Mad Prince' John Moth.md",
     "Untitled.base",
     "Kingdom of Moths/Duke Alec 'Protag' Buchanan.md",
     "Kingdom of Moths/Prince Valerian Freeman.md",
-    "Nerd Empire.md",
     "Untitled.canvas",
     "Kingdom of Winters/Vicount Rom Killinger.md",
     "Kingdom of Moths",
