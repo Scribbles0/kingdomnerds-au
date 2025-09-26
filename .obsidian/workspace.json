@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "60acb8291740257f",
+        "id": "6db2dd11c6614de5",
         "type": "tabs",
         "children": [
           {
-            "id": "bde18f5207b91d4d",
+            "id": "a0e5e3cb842de564",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Kingdom of Moths/Kingdom of Moths.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kingdom of Moths"
             }
           }
         ]
@@ -109,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Kingdom of Moths/Kingdom of Moths.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +141,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Kingdom of Moths"
             }
           },
           {
@@ -173,12 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Kingdom of Moths/Kingdom of Moths.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Kingdom of Moths"
             }
           },
           {
@@ -210,14 +216,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bde18f5207b91d4d",
+  "active": "a0e5e3cb842de564",
   "lastOpenFiles": [
+    "Kingdom of Moths/Marquess Lai Neetra.md",
     "Kingdom of Moths/King 'Mad Prince' John Moth.md",
     "Untitled.base",
     "Kingdom of Moths/Kingdom of Moths.md",
     "Kingdom of Moths/Duchess Iris Moondancer.md",
     "Kingdom of Moths/Duke Alec 'Protag' Buchanan.md",
-    "Kingdom of Moths/Marquess Lai Neetra.md",
     "Kingdom of Moths/Prince Valerian Freeman.md",
     "Kingdom of Winters/Duchess Nelliel Terhaus.md",
     "Kingdom of Winters/Duchess Samantha Evans.md",
