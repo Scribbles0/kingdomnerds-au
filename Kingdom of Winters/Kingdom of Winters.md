@@ -6,4 +6,4 @@ Inhabitants:
 - [[Princess Lenafreya Malayzay]]
 - [[Duchess Samantha Evans]]
 - [[Duchess Nelliel Terhaus]]
-- [[Vicount Rom Killinger]]
+- [[Viscount Rom Killinger]]
