@@ -6,4 +6,5 @@ Inhabitants:
 - [[Duchess Iris Moondancer]]
 - [[Duke Alec 'Protag' Buchanan]]
 - [[Marquess Lai Neetra]]
+- [[Baron Sips Summers]]
 - [[Count Larry Mens]]
