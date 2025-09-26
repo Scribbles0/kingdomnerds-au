@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingdom of Winters/Duchess Samantha Evans.md",
+                "file": "Kingdom of Winters/Kingdom of Winters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duchess Samantha Evans"
+              "title": "Kingdom of Winters"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kingdom of Winters/Duchess Samantha Evans.md",
+                "file": "Kingdom of Winters/Kingdom of Winters.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Duchess Samantha Evans"
+              "title": "Graph of Kingdom of Winters"
             }
           },
           {
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kingdom of Winters/Duchess Samantha Evans.md",
+                "file": "Kingdom of Winters/Kingdom of Winters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Duchess Samantha Evans"
+              "title": "Outline of Kingdom of Winters"
             }
           },
           {
@@ -218,13 +218,15 @@
   },
   "active": "2a05aada081c664d",
   "lastOpenFiles": [
-    "Kingdom of Winters/Duchess Nelliel Terhaus.md",
-    "Kingdom of Winters/Prince Purpington von Winter.md",
+    "Kingdom of Winters/Princess Lenafreya Malayzay.md",
+    "Kingdom of Winters/Kingdom of Winters.md",
+    "Kingdom of Winters/Queen Ash von Winter.md",
     "Kingdom of Moths/Kingdom of Moths.md",
     "Kingdom of Winters/Duchess Samantha Evans.md",
+    "Kingdom of Winters/Duchess Nelliel Terhaus.md",
+    "Kingdom of Winters/Prince Purpington von Winter.md",
     "Kingdom of Moths/Duchess Iris Moondancer.md",
     "Kingdom of Moths/Count Larry Mens.md",
-    "Kingdom of Winters/Kingdom of Winters.md",
     "Kingdom of Moths/Marquess Lai Neetra.md",
     "Kingdom of Moths/King 'Mad Prince' John Moth.md",
     "Untitled.base",
@@ -232,9 +234,7 @@
     "Kingdom of Moths/Prince Valerian Freeman.md",
     "Nerd Empire.md",
     "Untitled.canvas",
-    "Kingdom of Winters/Princess Lenafreya Malayzay.md",
     "Kingdom of Winters/Vicount Rom Killinger.md",
-    "Kingdom of Winters/Queen Ash von Winter.md",
     "Kingdom of Moths",
     "Kingdom of Winters",
     "Kingdom of Moths",
