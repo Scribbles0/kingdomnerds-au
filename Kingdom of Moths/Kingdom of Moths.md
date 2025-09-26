@@ -6,4 +6,3 @@ Inhabitants:
 [[Duke Alec 'Protag' Buchanan]]
 [[Marquess Lai Neetra]]
 [[Count Larry Mens]]
-test upload
