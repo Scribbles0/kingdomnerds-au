@@ -1,0 +1,1 @@
+Connected to [[King 'Mad Prince' John Moth]].

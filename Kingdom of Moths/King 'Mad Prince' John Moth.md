@@ -1,0 +1,2 @@
+- Would declare war on the Kingdom of Winter but is held back by his royal court
+- Called 'Mad Prince' by those who have no respect for him due to his lust for war
