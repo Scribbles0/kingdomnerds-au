@@ -25,14 +25,15 @@
             "id": "69c7fe03081576be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Kingdom of Moths/Kingdom of Moths.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Kingdom of Moths/Kingdom of Moths.md",
+                "bFile": "Kingdom of Moths/Kingdom of Moths.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Kingdom of Moths"
+              "icon": "diff",
+              "title": "Diff: Kingdom of Moths"
             }
           },
           {
