@@ -1,0 +1,6 @@
+[[Humans]]
+[[Moths]]
+[[Lizards]]
+[[Elves]]
+[[Dwarf]]
+[[Slimes]]
