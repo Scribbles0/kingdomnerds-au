@@ -1,5 +1,9 @@
+#Moth 
 - Would declare war on the Kingdom of Winter but is held back by his royal court
 - Called 'Mad Prince' by those who have no respect for him due to his lust for war
+- Son of the Late King [[Aranes Acari]]
+
+A Brown moth, well kept and sharp. His dark demeanor is offset by the bright ornate cloaks he wears. He seems to float across the floor, though many believe this is because he drags his feet. You can still hear the light clacks of his steps. In his presence, the air is still, as if not allowed to move unless told. 
 
 King 'Mad Prince' John Moth, a man that may be the end to his lineage. The royal blood in his veins are stained by his actions. The tales of his misdeeds and ridiculous monarchy is known far and wide. His citizens don't have a choice to leave. Many who come to visit are "persuaded" to stay. 
 

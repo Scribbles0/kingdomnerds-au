@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Marquess Lai Neetra"
             }
+          },
+          {
+            "id": "a8f315626b79ac6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kingdom of Moths/King 'Mad Prince' John Moth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "King 'Mad Prince' John Moth"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "cf3beafeba4ce70b",
@@ -247,18 +261,20 @@
   },
   "active": "7a1106d08bb91760",
   "lastOpenFiles": [
+    "Aranes Acari.md",
+    "Kingdom of Moths/Duke Alec 'Protag' Buchanan.md",
+    "Kingdom of Moths/King 'Mad Prince' John Moth.md",
+    "Moths.md",
+    "The Physical Kingdom of Moths.md",
+    "Silktar.md",
+    "Dark Wing.md",
     "Kingdom of Moths/Marquess Lai Neetra.md",
     "Kingdom of Winters/Prince Purpington von Winter.md",
-    "The Physical Kingdom of Moths.md",
     "Evil God Armok Scrungus.md",
-    "Kingdom of Moths/King 'Mad Prince' John Moth.md",
     "Tale between two glizzas.md",
-    "Moths.md",
-    "Silktar.md",
     "Images/Pasted image 20250926235649.png",
     "Images/Pasted image 20250926234930.png",
     "Kingdom of Moths/Kingdom of Moths.md",
-    "Dark Wing.md",
     "Nerd Empire.md",
     "Species.md",
     "Images/mokmok.png",
@@ -275,10 +291,8 @@
     "Kingdom of Winters/Duchess Samantha Evans.md",
     "Kingdom of Winters/Princess Lenafreya Malayzay.md",
     "Kingdom of Winters/Viscount Rom Killinger.md",
-    "Kingdom of Moths/Duke Alec 'Protag' Buchanan.md",
     "Kingdom of Moths/Prince Valerian Freeman.md",
     "Untitled.base",
-    "Kingdom of Winters/Vicount Rom Killinger.md",
     "Kingdom of Moths",
     "Kingdom of Winters",
     "Kingdom of Moths",
