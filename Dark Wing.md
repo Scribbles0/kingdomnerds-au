@@ -1,1 +1,1 @@
-The Dark Wing, in short, are the King's personal guards. But they act more as the John's personal army, consisting of asassins 
+The Dark Wing, in short, are the King's personal guards. But they act more as John's personal army, consisting of assassins, Inquisitors, and personal guards.
