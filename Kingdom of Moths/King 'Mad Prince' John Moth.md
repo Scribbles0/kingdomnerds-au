@@ -7,5 +7,4 @@ Many of the successful trade routes were established due to his exploitation of 
 
 The citizens who speak of revolt and revolution are shot down by non other than other citizens. Loyalists who have grown accustomed to John Moth's rule use these radicals as stepping stones to earn good standing with the [[Dark Wing]], by exposing schemes and basically snitching.
 
-
-
+His methods are without a doubt cold-hearted at best. Cruelty is something the Mad Prince finds necessary to keep 
