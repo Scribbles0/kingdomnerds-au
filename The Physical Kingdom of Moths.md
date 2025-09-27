@@ -5,7 +5,7 @@ While believing all species to be equal, the Mad Prince removes all morality whe
 
 The Kingdom itself is well built, the masonry is kept clean and sharp. Each brick is laid with precision and care. Years of financing and connections allowed John Moth to build what is basically a large capital up atop the mountainous region.
 
-The Land stretches with lush green, speckled with large juts of rock and boulders. Rivers are fresh, and life is always thriving in this region. Due to the large population of moths, these non-carnivorous bunches of fur feed upon mostly sap, fruit, and the elusive [[Silktar]]
+The Land stretches with lush green, speckled with large juts of rock and boulders. Rivers are fresh, and life is always thriving in this region. Due to the large population of moths, The environment rarely suffers from pollution or civilization. This is because these non-carnivorous bunches of fur feed upon mostly sap, fruit, and the elusive [[Silktar]] sweets.
 
 #### "Work? In this blistering heat? We have warm fur coats, I would never subject my people to that. Send the lizards, they're warm-blooded." - John Moth
 during the hot summers, when the fields required tending due to a large downpour.

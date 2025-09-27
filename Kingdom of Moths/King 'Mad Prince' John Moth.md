@@ -7,4 +7,14 @@ Many of the successful trade routes were established due to his exploitation of 
 
 The citizens who speak of revolt and revolution are shot down by non other than other citizens. Loyalists who have grown accustomed to John Moth's rule use these radicals as stepping stones to earn good standing with the [[Dark Wing]], by exposing schemes and basically snitching.
 
-His methods are without a doubt cold-hearted at best. Cruelty is something the Mad Prince finds necessary to keep 
+His methods are without a doubt cold-hearted at best. Cruelty is something the Mad Prince finds necessary to keep order. Laws are below the Mad Prince, as rules and precautions seem to bend according to what fits his needs or desires. 
+
+During a large meeting with a large merchant group, a discussion about taxes was brought up. A majority of the peasants in the kingdom were simply unable to pay the high taxes that was presented to them. Sales would rarely be profitable due to the 40% sales tax imposed on all traders within the kingdom. 
+
+Every merchant advised John Moth to lower the taxes to make the situation at lease bearable. 
+
+Soon after, the same goods that were sold by the merchant group are now being sold by a new traders backed by none other than the King.
+
+The merchant group, obviously displeased by their unfortunate circumstances, criticized the king for his unfairness.
+
+The glint of a blade is not much different from that of a coin. 

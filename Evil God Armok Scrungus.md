@@ -8,6 +8,6 @@ At one point, a as you say "deranged" individual that spewed nonsense such as "m
 Few believe this is one of Armok Scrungus's forms, or at lease a vision of his being. 
 
 ![[mokmok.png]]
-
+**bad things happen to good people**
 
 
